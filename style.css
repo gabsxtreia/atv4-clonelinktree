@@ -1,0 +1,112 @@
+body {
+    background: #1d1d1b;
+    color: #ffffff;
+    font-family: "Trebuchet MS", monospace;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+img {
+    border-radius: 10%;
+  }
+.fotoperfil {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    height: auto;
+    max-width: 100px;
+  }
+.nomeperfil {
+      text-align: center;
+      padding: 0px;
+      color: darkgoldenrod;
+      font-weight: bold;
+  }
+.links {
+      text-align: center;
+      margin-top: 10px;
+      padding: 10px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      color: yellow;
+  }
+.link-ig {
+      text-align: center;
+      margin-top: 60px;
+      padding: 10px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      color: darksalmon;
+  }
+.link-tt {
+      text-align: center;
+      margin-top: 10px;
+      padding: 10px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      color: dodgerblue;
+  }
+.link-fb {
+      text-align: center;
+      margin-top: 10px;
+      padding: 10px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      color: blue;
+  }
+.link-wpp {
+      text-align: center;
+      margin-top: 10px;
+      padding: 10px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      color: darkgreen;
+  }
+a {
+    text-decoration: none;
+    color: white;
+    transition: color 2s; 
+}
+.cabecalho {
+  text-align: center;
+  margin-top: 0px;
+  font-size: 30px;
+  font-weight: bold;
+  color: tomato;
+}
+.rodape {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: tomato;
+}
+a:hover {
+    color: #000000;
+    background: #ffffff;
+}
